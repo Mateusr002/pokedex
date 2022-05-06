@@ -1,1 +1,1 @@
-<img src="./assets/images/print" alt="Pokedex"
+<img src="./assets/images/print.png" alt="Pokedex">
