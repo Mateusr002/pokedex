@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+body{
+    font-family: 'Lobster', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e6e6e9;
+    box-shadow: 11px 1px 20px 3px rgba(0,0,0,0.3);
+}
+
+.pokedex{
+ 
+    display: flex;
+    gap: 30px;
+    padding: 30px;
+}
+
